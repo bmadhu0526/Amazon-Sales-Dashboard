@@ -27,5 +27,4 @@ The project uses a raw Amazon sales dataset and converts it into a complete, int
 - DAX  
 - Excel  
 
-## Repository Structure
 
